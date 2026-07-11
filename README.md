@@ -2,8 +2,8 @@
 
 > An end-to-end clinical risk prediction web application using XGBoost and SHAP explainability, trained on 229,474 CDC survey respondents and deployed as an interactive Streamlit app.
 
-**🔗 Live App:** [Click here to try the app](#)  
-<!-- Replace # with your Streamlit URL after deployment -->
+**🔗 Live App:** [Click here to try the app](https://diabetes-risk-predictor-fu3p3gcnxkeo2lfikvniapp.streamlit.app/)  
+
 
 ---
 
@@ -293,7 +293,7 @@ streamlit run app/app.py
 
 **Cephas Adams Kumah** 
 | Data Science Graduate | Healthcare & Open Industries
-[LinkedIn](https://linkedin.com/cephas-adams-kumah) · [GitHub](https://github.com/Cephasadamskumah-ds2025) · [Live App](#)
+[LinkedIn](https://linkedin.com/cephas-adams-kumah) · [GitHub](https://github.com/Cephasadamskumah-ds2025) · [Live App](https://diabetes-risk-predictor-fu3p3gcnxkeo2lfikvniapp.streamlit.app/)
 
 ---
 
